@@ -1,0 +1,22 @@
+.Img{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+text-shadow: 3px 3px aqua;
+    
+}
+.hr{
+border-top: 10px solid black;
+}
+.A1{
+border-collapse:collapse ;
+border-color: none;
+}
+.A{
+    background-color: blanchedalmond;
+    width: 55px;
+    height: 55px;
+}
+.B{
+    background-color: olivedrab;
+}
