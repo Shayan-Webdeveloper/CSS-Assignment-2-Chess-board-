@@ -5,7 +5,9 @@
 text-shadow: 3px 3px aqua;
     
 }
-
+.hr{
+    height: 3px solid black;
+}
 .A1{
 border-collapse:collapse ;
 border-color: none;
